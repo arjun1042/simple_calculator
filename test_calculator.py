@@ -1,6 +1,6 @@
 import unittest
 from calculator import Calculator
-from mutlitply import multiplication
+from multiply import multiplication
 
 class TestCalculator(unittest.TestCase):
     def setUp(self):
